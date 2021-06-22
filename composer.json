@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.14",
+        "ozdemir/datatables": "^2.3"
+    }
+}
